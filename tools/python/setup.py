@@ -17,7 +17,8 @@ DEPS = [
          "pyyaml",
          "jsonschema",
          "tabulate",
-         "mock"
+         "mock",
+         "docopt"
        ]
 
 if sys.version_info >= (3, 5):
